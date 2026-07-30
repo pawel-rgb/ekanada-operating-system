@@ -7,8 +7,7 @@ Minimalny fundament operacyjny dla pracy nad Polską Szkołą eKanada, kampanią
 
 ## Struktura folderów
 - `knowledge-base/` - wiedza robocza i zasady.
-- `knowledge-base/brand/` - aktualny moduł brand oparty na zatwierdzonym Brand Booku.
-- `knowledge-base/01-brand/` - legacy brand, zachowany jako starsza wersja robocza.
+- `knowledge-base/01-brand/` - aktualny moduł brand oparty na zatwierdzonym Brand Booku.
 - `campaigns/` - osobne pakiety dla kampanii, np. `2026-folklorama/`.
 - `templates/` - szablony briefów i materiałów.
 - `workflows/` - prosty opis procesu pracy.
@@ -52,6 +51,7 @@ Przepływ pracy:
 
 - `references` przechowuje oryginalne materiały źródłowe.
 - `knowledge-base` zawiera opracowaną wiedzę operacyjną.
+- `knowledge-base/01-brand/` zawiera moduł brand wyciągnięty z Brand Booka.
 - `prompts` trzyma gotowe prompty do pracy nad treściami i materiałami.
 - `campaigns` przechowuje pakiety kampanii i ich wersje robocze, zatwierdzone oraz finalne.
 - `output` zawiera eksporty końcowe do druku, web i archiwum.
