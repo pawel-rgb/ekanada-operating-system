@@ -23,6 +23,17 @@ The Folklorama campaign materials are produced as separate brand packages:
 - eKanada International Language
 - Polish Scouting
 
+## Readiness Status
+
+### Ready for next-step drafting
+
+- eKanada School
+
+### Blocked by missing approved content
+
+- eKanada International Language
+- Polish Scouting
+
 ## Scope
 
 - Posters
@@ -48,6 +59,7 @@ The Folklorama campaign materials are produced as separate brand packages:
 - Role: supporting service or program brand
 - Source alignment: campaign brief, Brand Book, governance
 - Key message focus: TODO: DO UZUPEŁNIENIA
+- Draft status: blocked until approved positioning and audience framing are provided
 
 ### Polish Scouting
 
@@ -57,6 +69,7 @@ The Folklorama campaign materials are produced as separate brand packages:
 - Contact information:
   - Email: info@zhpwinnipeg.ca
   - Website: www.zhpwinnipeg.ca
+- Draft status: blocked until approved positioning and audience framing are provided
 
 ## Material Types
 

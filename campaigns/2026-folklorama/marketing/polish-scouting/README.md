@@ -3,6 +3,11 @@
 ## Purpose
 This folder contains campaign-facing documentation for materials connected to Polish Scouting.
 
+## Readiness Status
+
+- Campaign positioning: blocked until approved message boundaries and audience framing are provided
+- Material drafting: blocked until campaign positioning is complete
+
 ## Contents
 - `campaign-positioning.md`
 
@@ -24,4 +29,3 @@ This folder contains campaign-facing documentation for materials connected to Po
 - `flyer-brief.md`
 - `copy-notes.md`
 - `contact-details.md`
-

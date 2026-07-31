@@ -5,6 +5,12 @@ This document defines the campaign-level communication logic for Folklorama 2026
 
 It sits between the campaign brief and any future marketing copy, ensuring that campaign messages remain aligned with the Brand Book, governance and the educational program.
 
+## Readiness Status
+
+- Core messages: blocked until approved campaign copy exists
+- Audience-specific framing: blocked until the campaign copy direction is approved
+- Message boundaries: blocked until governance-linked wording is available
+
 ## Scope
 - Core messages
 - Message hierarchy

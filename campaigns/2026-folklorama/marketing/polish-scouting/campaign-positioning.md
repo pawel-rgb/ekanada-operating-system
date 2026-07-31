@@ -16,6 +16,11 @@ last_updated: "2026-07-31"
 
 This document defines the approved positioning for campaign materials that use the Polish Scouting brand label.
 
+## Readiness Status
+
+- Positioning: blocked until approved audience framing is provided
+- Material drafting: blocked until audience framing and message boundaries are complete
+
 ## Scope
 
 - Brand role
