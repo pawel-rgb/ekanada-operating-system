@@ -1,11 +1,31 @@
-# Folklorama 2026 Educational Program — Document Package
+# Folklorama 2026
 
-This package contains the complete program documents whose full approved working text was available in the current project conversation:
+This campaign package contains the documentation architecture for the Folklorama 2026 campaign.
 
-1. `program-architecture.md`
-2. `module-specification-standard.md`
-3. `01-welcome-to-poland.md`
+## Purpose
+- Organize the campaign as a reusable structure for current and future eKanada campaigns.
+- Separate governance, planning, review, assets, production, and archive layers.
+- Keep campaign documentation consistent with eKanada governance and approved source documents.
 
-The complete source text of `Folklorama 2026 Educational Framework` was not available in the current conversation context, so it has not been reconstructed or invented here.
+## Core Documents
+- `brief.md` - approved campaign brief.
+- `architecture/README.md` - entry point for the campaign documentation architecture.
+- `architecture/document-map.md` - map of the documentation layers and dependencies.
+- `modules/README.md` - module registry for the campaign.
+- `marketing/README.md` - marketing documentation layer.
+- `assets/README.md` - asset management layer.
+- `production/README.md` - production planning layer.
+- `review/README.md` - review and approval layer.
+- `archive/README.md` - archive and retrospective layer.
 
-Generated: 2026-07-30
+## Working Rule
+- No campaign content should be created outside the approved architecture and source documents.
+- Marketing copy, educational materials, and production outputs are added only when explicitly approved.
+
+## Status
+- Architecture foundation: in progress
+- Marketing content: not yet created
+- Production outputs: not yet created
+- Archive material: not yet finalized
+
+Generated: 2026-07-31
