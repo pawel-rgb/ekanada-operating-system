@@ -25,13 +25,13 @@ This document defines the approved positioning for campaign materials that use t
 
 ## Brand Role
 
-- Primary role: TODO: DO UZUPEŁNIENIA
-- Relationship to eKanada: TODO: DO UZUPEŁNIENIA
-- Relationship to Folklorama: TODO: DO UZUPEŁNIENIA
+- Primary role: supporting brand used in separate eKanada-language campaign materials
+- Relationship to eKanada: a branded extension under the eKanada campaign structure
+- Relationship to Folklorama: independent material track within the Folklorama 2026 package
 
 ## Audience Framing
 
-- Primary audience: TODO: DO UZUPEŁNIENIA
+- Primary audience: families and participants addressed through the eKanada School campaign
 - Secondary audience: TODO: DO UZUPEŁNIENIA
 - Language preference: English / Polish as approved
 
@@ -40,9 +40,13 @@ This document defines the approved positioning for campaign materials that use t
 - Approved message: TODO: DO UZUPEŁNIENIA
 - Not approved: TODO: DO UZUPEŁNIENIA
 
+## Contact Details
+
+- Email: school@ekanada.ca
+- Website: www.schoolekanada.ca
+
 ## Related Documents
 
 - `../folklorama-material-pack.md`
 - `../messaging-framework.md`
 - `../content-plan.md`
-

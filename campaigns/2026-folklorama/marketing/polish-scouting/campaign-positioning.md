@@ -25,9 +25,9 @@ This document defines the approved positioning for campaign materials that use t
 
 ## Brand Role
 
-- Primary role: TODO: DO UZUPEŁNIENIA
-- Relationship to eKanada: TODO: DO UZUPEŁNIENIA
-- Relationship to Folklorama: TODO: DO UZUPEŁNIENIA
+- Primary role: supporting community brand used in separate scouting campaign materials
+- Relationship to eKanada: a collaborating brand within the campaign structure
+- Relationship to Folklorama: independent material track within the Folklorama 2026 package
 
 ## Audience Framing
 
@@ -40,9 +40,13 @@ This document defines the approved positioning for campaign materials that use t
 - Approved message: TODO: DO UZUPEŁNIENIA
 - Not approved: TODO: DO UZUPEŁNIENIA
 
+## Contact Details
+
+- Email: info@zhpwinnipeg.ca
+- Website: www.zhpwinnipeg.ca
+
 ## Related Documents
 
 - `../folklorama-material-pack.md`
 - `../messaging-framework.md`
 - `../content-plan.md`
-

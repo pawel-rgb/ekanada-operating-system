@@ -17,6 +17,12 @@ This document defines the production structure for campaign materials connected 
 
 It is a planning and control document only. It does not authorize final publication on its own.
 
+The Folklorama campaign materials are produced as separate brand packages:
+
+- eKanada School
+- eKanada International Language
+- Polish Scouting
+
 ## Scope
 
 - Posters
@@ -32,19 +38,25 @@ It is a planning and control document only. It does not authorize final publicat
 
 - Role: primary campaign brand
 - Source alignment: campaign brief, Brand Book, governance
-- Key message focus: TODO: DO UZUPEŁNIENIA
+- Key message focus: Folklorama participation, Polish language and culture, educational engagement
+- Contact information:
+  - Email: school@ekanada.ca
+  - Website: www.schoolekanada.ca
 
 ### eKanada International Language
 
 - Role: supporting service or program brand
-- Source alignment: TODO: DO UZUPEŁNIENIA
+- Source alignment: campaign brief, Brand Book, governance
 - Key message focus: TODO: DO UZUPEŁNIENIA
 
 ### Polish Scouting
 
 - Role: supporting community or program brand
-- Source alignment: TODO: DO UZUPEŁNIENIA
+- Source alignment: campaign brief, Brand Book, governance
 - Key message focus: TODO: DO UZUPEŁNIENIA
+- Contact information:
+  - Email: info@zhpwinnipeg.ca
+  - Website: www.zhpwinnipeg.ca
 
 ## Material Types
 
@@ -107,4 +119,3 @@ It is a planning and control document only. It does not authorize final publicat
 - `launch-checklist.md`
 - `../review/review-checklist.md`
 - `../production/production-plan.md`
-
